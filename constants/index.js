@@ -1,0 +1,10 @@
+export const GET_PAGE_LIST_SUCCESS = 'GET_PAGE_LIST_SUCCES';
+export const GET_PAGE_LIST_FAIL = 'GET_PAGE_LIST_FAIL';
+export const GET_PAGE_LIST_REQUEST = 'GET_PAGE_LIST_REQUEST';
+export const SET_DRIVER_INFO = 'SET_DRIVER_INFO';
+export const GET_RACE_LIST_SUCCESS = 'GET_RACE_LIST_SUCCES';
+export const GET_RACE_LIST_FAIL = 'GET_RACE_LIST_FAIL';
+export const GET_RACE_LIST_REQUEST = 'GET_RACE_LIST_REQUEST';
+
+export const SERVER_NAME = 'https://ergast.com/api';
+export const PAGE_LIMIT = 20;
